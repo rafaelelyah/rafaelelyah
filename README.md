@@ -1,4 +1,10 @@
-### Hi there 👋
+### Rafael Carbono
+
+Artista criativo com ênfase em Branding, Front-End e Ilustração, estudei e trabalhei em peças de teatro, desenvolvendo todas as etapas (da escrita do roteiro a interpretação), trabalhei desde os dezoito em diversas áreas, ao mesmo tempo que fazia freelas na que me interessa, tirando lições e habilidades valiosas de cada experiência de vida. Minha jornada sempre permeou a arte, sou filho de uma artesã e de um músico, e desde que me conheço gosto deste mundo.
+
+Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer, mas também a pensar sobre o que, como e porquê fazer, além de amigos que me incentivaram a seguir firme com minhas aspirações.
+
+De uns anos pra cá me interessei por tecnologia e comecei a estudar sobre isso, tenho grande interesse em Front-End, mas pretendo entender um pouco de tudo. Atualmente faço Técnico em Informática e Multimídia, e espero num futuro próximo estar atuando ativamente nessa área.
 
 <!--
 **rafaelcarbono/rafaelcarbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
