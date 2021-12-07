@@ -6,7 +6,7 @@ Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer,
 
 - ✨ Dev, Gráfico e Multimídia;
 - 🔭 Estou trabalhando em projetos pessoais;
-- 🌱 Atualmente faço Técnico em Informática e Multimídia no Senac, e Bootcamps na DIO;
+- 🌱 Engenharia da Computação na Descomplica, Técnico em Informática Senac, e Bootcamps na DIO;
 - 💬 Me pergunte sobre a essência das pessoas;
 - 📫 Você pode entrar em contato comigo pelo email: rafael.carbono@outlook.com;
 - ⚡ Fato Curioso: Sou bruxo...
