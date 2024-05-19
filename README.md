@@ -8,5 +8,5 @@ Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer,
 -  Estou trabalhando em projetos pessoais;
 -  Engenharia da Computação na Descomplica, Técnico em Informática Senac, e Bootcamps na DIO;
 -  Me pergunte sobre a essência das pessoas;
--  Você pode entrar em contato comigo pelo email: rafael.carbono@outlook.com;
+-  Você pode entrar em contato comigo pelo email: rafaelelyah@outlook.com;
 -  Fato Curioso: Sou bruxo...
