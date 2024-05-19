@@ -1,4 +1,4 @@
-### Rafael Carbono
+### Rafael Elyah
 
 Artista criativo com ênfase em Branding, Front-End e Ilustração, estudei e trabalhei em peças de teatro, desenvolvendo todas as etapas (da escrita do roteiro a interpretação), trabalhei desde os dezoito em diversas áreas, ao mesmo tempo que fazia freelas na que me interessa, tirando lições e habilidades valiosas de cada experiência de vida. Minha jornada sempre permeou a arte, sou filho de uma artesã e de um músico, e desde que me conheço gosto deste mundo.
 
