@@ -4,9 +4,9 @@ Artista criativo com ênfase em Branding, Front-End e Ilustração, estudei e tr
 
 Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer, mas também a pensar sobre o que, como e porquê fazer, além de amigos que me incentivaram a seguir firme com minhas aspirações.
 
-- ✨ Dev, Gráfico e Multimídia;
-- 🔭 Estou trabalhando em projetos pessoais;
-- 🌱 Engenharia da Computação na Descomplica, Técnico em Informática Senac, e Bootcamps na DIO;
-- 💬 Me pergunte sobre a essência das pessoas;
-- 📫 Você pode entrar em contato comigo pelo email: rafael.carbono@outlook.com;
-- ⚡ Fato Curioso: Sou bruxo...
+-  Dev, Gráfico e Multimídia;
+-  Estou trabalhando em projetos pessoais;
+-  Engenharia da Computação na Descomplica, Técnico em Informática Senac, e Bootcamps na DIO;
+-  Me pergunte sobre a essência das pessoas;
+-  Você pode entrar em contato comigo pelo email: rafael.carbono@outlook.com;
+-  Fato Curioso: Sou bruxo...
