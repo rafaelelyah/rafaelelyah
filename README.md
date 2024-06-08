@@ -6,7 +6,7 @@ Artista criativo com ênfase em Branding, Front-End e Ilustração, estudei e tr
 
 Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer, mas também a pensar sobre o que, como e porquê fazer, além de amigos que me incentivaram a seguir firme com minhas aspirações.
 
--  Dev, Gráfico e Multimídia;
+-  Thinking, Concept & Development;
 -  Estou trabalhando em projetos pessoais;
 -  Técnico em Informática no Senac, Bootcamps na DIO e Certificações na Coursera
 -  Me pergunte sobre a essência das pessoas;
