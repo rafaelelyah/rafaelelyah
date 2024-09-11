@@ -9,7 +9,7 @@ Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer,
 -  Thinking, Concept & Development;
 -  Estou trabalhando em projetos pessoais;
 -  Técnico em Informática no Senac, Bootcamps na DIO e Certificações na Coursera;
--  Cursando Bacharelado em Engenharia de Design Digital na UniFatecie;
+-  Cursando Bacharelado em Engenharia de Design Digital na UniFatecie e Tecnólogo em Design de Animação na UniCV;
 -  Me pergunte sobre a essência das pessoas;
 -  Você pode entrar em contato comigo pelo email: rafaelelyah@outlook.com;
 -  Fato Curioso: Sou bruxo...
