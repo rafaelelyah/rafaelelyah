@@ -2,9 +2,8 @@
 
 # Rafael Elyah
 
-Artista criativo com ênfase em Branding, Front-End e Ilustração, estudei e trabalhei em peças de teatro, desenvolvendo todas as etapas (da escrita do roteiro a interpretação), trabalhei desde os dezoito em diversas áreas, ao mesmo tempo que fazia freelas na que me interessa, tirando lições e habilidades valiosas de cada experiência de vida. Minha jornada sempre permeou a arte, sou filho de uma artesã e de um músico, e desde que me conheço gosto deste mundo.
-
-Tive a sorte de sempre encontrar instrutores que me ensinassem não só a fazer, mas também a pensar sobre o que, como e porquê fazer, além de amigos que me incentivaram a seguir firme com minhas aspirações.
+Olá! Sou Rafael Elyah, artista multidisciplinar com formação em Design Gráfico e Desenvolvimento Web.
+Minha paixão está em criar experiências que unam estética e funcionalidade — seja através do código, da imagem ou do som. Aqui você encontra projetos que refletem essa fusão: sites autorais, experimentações visuais e ferramentas criativas.
 
 -  Thinking, Concept & Development;
 -  Estou trabalhando em projetos pessoais;
