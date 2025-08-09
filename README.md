@@ -7,7 +7,8 @@ Minha paixão está em criar experiências que unam estética e funcionalidade �
 
 -  Thinking, Concept & Development;
 -  Estou trabalhando em projetos pessoais;
--  Técnico em Informática no Senac, Bootcamps na DIO e Certificações na Coursera;
+-  Técnico em Informática & Programação para Jogos Digitais no Senac;
+-  Bootcamps na DIO e Certificações na Coursera;
 -  Cursando Bacharelado em Engenharia de Design Digital na UniFatecie e Tecnólogo em Design de Animação na UniCV;
 -  Me pergunte sobre a essência das pessoas;
 -  Você pode entrar em contato comigo pelo email: rafaelelyah@outlook.com;
